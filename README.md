@@ -34,12 +34,15 @@ Places API Documentation:  [https://developers.google.com/places/documentation/]
 
 #### Review
 
-When reviewing your submission, we'll be looking at the following:
+When reviewing your submission, we'll be looking at the following (not necessarily in this order):
 
 - Code Quality
-  - Is the code reasonably easy to understand and well-organized (i.e. broken down into models, networking, views, controllers)?
-  - Is your code reasonably robust (i.e. what happens when the server returns errors or there is no internet connection)?
+  - Is the code reasonably easy to understand and well-organized (i.e. broken down into models, networking, views, controllers)? Could we plug our app into your code reasonably fast?
+  - Is your code reasonably robust (i.e. what happens when the server returns errors or there is no internet connection and how do you display those to the user)?
 
 - Functionality
   - Core functionality of searching and showing results
-  - Accuracy of the returned results
+  - Accuracy of the returned results (easy to find something locally or far away)
+
+- Experience
+  - How does the user experience feel?

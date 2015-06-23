@@ -11,6 +11,8 @@ We're not big into puzzles, so nothing about this is a trick. Just approach it a
 1. Create a simple app with a text entry field, and as you type it will display autocomplete results from the Google Places API.
 2. Once the user selects one of the results, transition to a new view showing basic information pulled from the Places API. The way you display the results and detailed view is up to you.
 
+**Note**: You should build this as if it were a real project that you had to maintain for the foreseeable future. You should ensure the user experience is balanced with the robustness and cleanliness of your code. We left this open ended, but it doesn't mean you should rush through it and just send something functional without any polish. This is a direct representation of who you are.
+
 When you're all done: 
 - Commit it to a repo in your personal Github account that we can access (or zip the project and host it somewhere for us to download)
 - If there are any special instructions (besides running `pod install` for Cocoapods) to get your project running, please let us know

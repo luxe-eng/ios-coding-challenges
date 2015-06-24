@@ -8,8 +8,9 @@ We're not big into puzzles, so nothing about this is a trick. Just approach it a
 
 #### Task Description
 
-1. Create a simple app with a text entry field, and as you type it will display autocomplete results from the Google Places API.
-2. Once the user selects one of the results, transition to a new view showing basic information pulled from the Places API. The way you display the results and detailed view is up to you.
+1. Create a simple app with a text entry field, and as you type it will display autocomplete results from the Google Places JSON API endpoint (i.e. not using their built-in autocomplete SDK). 
+  - **Important Note:** For this challenge, you cannot use Google's built in GMSPlacesClient:autocompleteQuery code to return parsed place results for you. You must instead use the JSON API provided and parse the return results yourself.
+2. Once the user selects one of the results, transition to a new view showing basic information pulled from the Places JSON API. The way you display the results and detailed view is up to you.
 
 **Note**: You should build this as if it were a real project that you had to maintain for the foreseeable future. You should ensure the user experience is balanced with the robustness and cleanliness of your code. We left this open ended, but it doesn't mean you should rush through it and just send something functional without any polish. This is a direct representation of who you are.
 

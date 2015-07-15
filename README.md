@@ -1,3 +1,5 @@
+<img src="http://i.giphy.com/kCVIL0CLNWv2E.gif" height="100"/>
+
 ## Google Places Search
 
 #### Philosophy

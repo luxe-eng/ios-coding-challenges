@@ -6,10 +6,10 @@ The goal of this challenge is to get insight on how you approach an everyday tas
 
 ### Values
 
-- We exclusively use Objective-C and Xcode, please don't go beyond that.
+- We exclusively use Objective-C / Swift and Xcode, please don't go beyond that.
 - We highly value code cleanliness, reusability, structure and hierarchy.
 - We make extensive use of code formatting, code reviews and tests.
-- We are huge fans of popular 3rd party libraries, so use them when it makes sense to not re-invent the wheel (e.g. AFNetworking is fine) but make sure you show us what you can do on your own.
+- We are huge fans of popular 3rd party libraries, so use them when it makes sense to not re-invent the wheel (e.g. AFNetworking / Alamofire is fine) but make sure you show us what you can do on your own.
 - We love modern app design!
 - We are big fans of small, incremental commits, not 5,000 LoC `Initial Commit.` and `Added stuff.` monsters.
 - We know StackOverflow et al. exist; getting inspiration from other sources is totally fine as long as you attribute them in your code.
